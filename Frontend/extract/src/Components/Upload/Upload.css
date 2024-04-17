@@ -1,0 +1,28 @@
+.form-container {
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  /* input[type="file"] {
+    display: none;
+  } */
+  
+  .custom-file-upload {
+    border: 5px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+  }
+  
+  /* form {
+    width: 50%; /* adjust this value to control the form's width */
+  /* } */ 
+
+  p{
+    font-weight: 400;
+    font-size: 40px;
+    margin-bottom:5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
